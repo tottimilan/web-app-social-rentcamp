@@ -1,3 +1,0 @@
-# YelpCamp
-
-### Totti Milan
